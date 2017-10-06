@@ -1,5 +1,5 @@
 # utl_no-exadata_hadoop_teradata_rspark
-Say no to exadata, hadoop, teradat and rspark. Use the free SPDE and workstation SAS
+Say no to exadata, hadoop, teradata and rspark. Use the free SPDE and workstation SAS. SAS on a power worstation with SPDE partitioning and parallel indexing.
 
     ```  Do you really need EXADATA, HADDOP, TERDATA or RSPARK if you have workstation SAS  ```
     ```    ```
